@@ -56,8 +56,7 @@ Here are some ideas to get you started:
 <div align="left">
 
 ## 📫 Contact Me :
-
-- **LinkedIn:** [Jeffry Johnson](https://www.linkedin.com/in/alejandrorodriguez)  
+ 
 - **Email:** [ejohns.ipod@gmail.com](mailto:ejohns.ipodb@gmail.com)  
 
 </div>
