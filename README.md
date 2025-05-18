@@ -1,10 +1,12 @@
 ## Hi there 👋
 
-</div>
+<br/>
 - 🔭 I’m currently working on: Manchester Robotics project -> Puzzlebot using raspberrypi camera, computer vision, dc motors control and other stuff..
+</div>
 - 😄 Pronouns: You can call me Picket..... Johnson
+<br/>
 - ⚡ Fun fact: i like doing electronic stuff, building up thing, and getting them done!
->
+
 
 <!-- ==================== -->
 <!--   Tech Stack -->
