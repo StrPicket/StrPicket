@@ -44,7 +44,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Gazebo-239120?style=flat-square&logo=gazebo&logoColor=white" alt="Gazebo"/>
   <img src="https://img.shields.io/badge/CoppeliaSim-7B1FA2?style=flat-square&logo=coppeliasim&logoColor=white" alt="CoppeliaSim"/>
   <img src="https://img.shields.io/badge/ROS2-CE0000?style=flat-square&logo=ros&logoColor=white" alt="ROS2"/>
-</p>
 
 </div>
 
