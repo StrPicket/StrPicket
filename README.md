@@ -1,19 +1,10 @@
 ## Hi there 👋
 
-<!--
-**StrPicket/StrPicket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+- 🔭 I’m currently working on: Manchester Robotics project -> Puzzlebot using raspberrypi camera, computer vision, dc motors control and other stuff..
+- 😄 Pronouns: You can call me Picket..... Johnson
+- ⚡ Fun fact: i like doing electronic stuff, building up thing, and getting them done!
+>
 
 <!-- ==================== -->
 <!--   Tech Stack -->
@@ -54,7 +45,7 @@ Here are some ideas to get you started:
 <!-- ==================== -->
 <div align="left">
 
-## 📫 Contact Me :
+## 📫 How to reach me :
  
 - **Email:** [ejohns.ipod@gmail.com](mailto:ejohns.ipodb@gmail.com)  
 
