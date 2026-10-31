@@ -5,31 +5,45 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johns27)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/StrPicket)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ejohns.ipod@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=StrPicket&color=F97316&style=flat&label=Visitors)](https://github.com/StrPicket)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=06B6D4&center=true&vCenter=true&random=false&width=700&height=40&lines=Autonomous+Driving+%26+Navigation;Vision-Based+Perception+%2B+SLAM;EKF+Sensor+Fusion+%2B+ROS+2;Team+Lead+%7C+Quanser+Mechatronics+Challenge)](https://git.io/typing-svg)
 
+![Profile Views](https://komarev.com/ghpvc/?username=StrPicket&color=F97316&style=for-the-badge&label=PROFILE%20VIEWS)
+![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20AUTONOMOUS%20DRIVING%20ROLES-22C55E?style=for-the-badge&labelColor=555555)
+
 </div>
 
----
+<img src="assets/divider.svg" width="100%" height="3" alt="">
 
-## About Me
+<table>
+<tr>
+<td valign="top" width="60%">
 
-```yaml
-name: Picket
-role: Robotics & Digital Systems Engineering Student
-university: Tecnológico de Monterrey
-graduation: December 2026
-focus: Autonomous Driving
-core_stack: [ROS 2, Python, C/C++, OpenCV, YOLO, MATLAB]
-hardware: [Jetson, STM32, FPGA, Raspberry Pi, ESP32]
-interests: [Vision-Based Perception, SLAM, EKF State Estimation, Motion Planning & Control]
-status: Looking for autonomous driving / robotics roles starting 2027
-```
+<h2>About Me</h2>
 
-> Robotics engineer focused on autonomous vehicles: from camera calibration and deep-learning perception to SLAM, sensor fusion and on-board ROS 2 integration. I've led 5-person teams across several projects, including an international Quanser challenge, and enjoy building systems end to end and getting them to work on real hardware.
+<p>Robotics &amp; Digital Systems Engineering student at <b>Tecnológico de Monterrey</b>, graduating in <b>December 2026</b> and focused on <b>autonomous driving</b>. I build the full stack of a self-driving robot: <b>vision-based perception</b> (YOLOv8, fisheye calibration, AprilTags), <b>LiDAR SLAM</b> and <b>EKF sensor fusion</b>, planning and control, all integrated on-board with <b>ROS 2</b> on Jetson, STM32 and FPGA hardware.</p>
 
----
+<p>I've led 5-person teams through Agile/Scrum sprints with V-Model verification, taking systems from simulation to the real robot, and led a team at the international <b>Quanser Mechatronics Challenge</b> in Canada (2025).</p>
+
+<p>
+<img src="https://img.shields.io/badge/Autonomous%20Driving-F97316?style=flat-square" alt="Autonomous Driving">
+<img src="https://img.shields.io/badge/Computer%20Vision-06B6D4?style=flat-square" alt="Computer Vision">
+<img src="https://img.shields.io/badge/SLAM-8B5CF6?style=flat-square" alt="SLAM">
+<img src="https://img.shields.io/badge/Sensor%20Fusion-4ECDC4?style=flat-square" alt="Sensor Fusion">
+<img src="https://img.shields.io/badge/ROS%202-CE0000?style=flat-square" alt="ROS 2">
+<img src="https://img.shields.io/badge/Embedded%20Systems-475569?style=flat-square" alt="Embedded Systems">
+</p>
+
+</td>
+<td align="center" valign="middle" width="40%">
+
+<img src="assets/about-illustration.svg" width="340" alt="Autonomous vehicle with LiDAR and camera perception">
+
+</td>
+</tr>
+</table>
+
+<img src="assets/divider.svg" width="100%" height="3" alt="">
 
 ## Experience & Leadership
 
@@ -41,7 +55,7 @@ status: Looking for autonomous driving / robotics roles starting 2027
 
 🎓 **B.Eng. Robotics and Digital Systems** · Tecnológico de Monterrey · Expected Dec 2026
 
----
+<img src="assets/divider.svg" width="100%" height="3" alt="">
 
 ## Featured Projects
 
@@ -57,7 +71,7 @@ status: Looking for autonomous driving / robotics roles starting 2027
 </div>
 -->
 
----
+<img src="assets/divider.svg" width="100%" height="3" alt="">
 
 ## Tech Stack
 
@@ -77,7 +91,7 @@ status: Looking for autonomous driving / robotics roles starting 2027
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
----
+<img src="assets/divider.svg" width="100%" height="3" alt="">
 
 ## Autonomous Driving Roadmap
 
@@ -90,7 +104,7 @@ status: Looking for autonomous driving / robotics roles starting 2027
 🎯 Next        →  Production-grade perception & planning stacks for self-driving vehicles
 ```
 
----
+<img src="assets/divider.svg" width="100%" height="3" alt="">
 
 <div align="center">
 
