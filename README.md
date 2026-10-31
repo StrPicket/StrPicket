@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ejohns.ipod@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=StrPicket&color=F97316&style=for-the-badge&label=PROFILE%20VIEWS)
-![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20AUTONOMOUS%20DRIVING%20ROLES-22C55E?style=for-the-badge&labelColor=555555)
+![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20SELF--DRIVING%20%26%20GEOMETRIC%20VISION%20ROLES-22C55E?style=for-the-badge&labelColor=555555)
 
 </div>
 
@@ -73,6 +73,14 @@ Led the development of an end-to-end autonomous driving system on a fisheye-came
 
 **Concepts & skills:** traffic-sign recognition, lane and traffic-light detection, fisheye camera, finite-state machines, modular ROS 2 architecture, field testing, team leadership.
 
+<br>
+<br>
+
+---
+
+<br>
+<br>
+
 ### 📦 Autonomous Warehouse PuzzleBot
 *Jan – Jun 2026 · Team lead (5 people)*
 
@@ -81,6 +89,14 @@ Led an autonomous warehouse forklift project using Agile/Scrum sprints with V-Mo
 **Tools:** ![ROS 2](https://img.shields.io/badge/ROS%202-CE0000?style=flat-square&logo=ros&logoColor=white) ![LiDAR](https://img.shields.io/badge/LiDAR-FF6B6B?style=flat-square) ![FPGA Tang Nano 20K](https://img.shields.io/badge/FPGA%20Tang%20Nano%2020K-8A2BE2?style=flat-square) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![AprilTag / QR](https://img.shields.io/badge/AprilTag%20/%20QR-4ECDC4?style=flat-square)
 
 **Concepts & skills:** SLAM (particle filter), EKF sensor fusion, camera calibration, PnP pose estimation, A\*/Dijkstra, Bug2, SPI communication, Agile/Scrum, V-Model.
+
+<br>
+<br>
+
+---
+
+<br>
+<br>
 
 ### 🚁 Cooperative UAVs for Oil-Leak Monitoring
 *Aug – Dec 2025 · Technical lead (5 people)*
@@ -98,6 +114,14 @@ Defined the architecture of a cooperative two-UAV inspection system and integrat
 
 **Concepts & skills:** instance segmentation, image-based visual servoing, PD control, multi-agent coordination, system architecture, technical leadership.
 
+<br>
+<br>
+
+---
+
+<br>
+<br>
+
 ### 🦾 Quanser Mechatronics Challenge
 *Nov 2–7, 2025 · Markham, Ontario, Canada · Team leader*
 
@@ -114,6 +138,14 @@ Led the end-to-end development of a robotic arm built from scratch with Quanser'
 
 **Concepts & skills:** actuator and sensor integration, robotic arm control, color-based object detection, gesture teleoperation, troubleshooting under time pressure, team leadership.
 
+<br>
+<br>
+
+---
+
+<br>
+<br>
+
 ### 🚜 Autonomous Tractor Prototype (John Deere)
 *Aug – Dec 2024 · Industry partner: John Deere*
 
@@ -122,6 +154,14 @@ Designed the embedded system of an autonomous tractor prototype: PWM motor contr
 **Tools:** ![STM32H755](https://img.shields.io/badge/STM32H755-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![CAN Bus](https://img.shields.io/badge/CAN%20Bus-FF4500?style=flat-square) ![GPS / IMU](https://img.shields.io/badge/GPS%20/%20IMU-4ECDC4?style=flat-square) ![NRF24L01](https://img.shields.io/badge/NRF24L01-555555?style=flat-square)
 
 **Concepts & skills:** embedded firmware, PWM and encoder control, waypoint navigation, inertial sensing, CAN bus, wireless telemetry.
+
+<br>
+<br>
+
+---
+
+<br>
+<br>
 
 ### ⚙️ Embedded Systems Projects
 *Academic projects*
@@ -154,16 +194,13 @@ Built a real-time vehicle simulation with FreeRTOS tasks, queues and semaphores 
 
 ---
 
-## Autonomous Driving Roadmap
+## Currently
 
-```
-✅ Done        →  Vision-based lane / traffic-sign / traffic-light perception (YOLOv8 + classical CV)
-✅ Done        →  LiDAR SLAM (particle filter), A* / Dijkstra planning, Bug2 avoidance
-✅ Done        →  EKF sensor fusion with outlier gating, fisheye calibration, PnP pose
-🔄 Exploring   →  LiDAR-camera fusion and 3D object detection
-🔄 Exploring   →  Model predictive control and trajectory optimization
-🎯 Next        →  Production-grade perception & planning stacks for self-driving vehicles
-```
+🔭 **Working on:** a vision-based autonomous driving project, with vision as the main source of perception.
+
+🎯 **Looking for:** roles focused on **geometric vision** and **self-driving**.
+
+![Geometric Vision](https://img.shields.io/badge/Geometric%20Vision-6366F1?style=flat-square) ![Self-Driving](https://img.shields.io/badge/Self--Driving-F97316?style=flat-square) ![Vision-Based Autonomy](https://img.shields.io/badge/Vision--Based%20Autonomy-06B6D4?style=flat-square)
 
 ---
 
@@ -171,7 +208,7 @@ Built a real-time vehicle simulation with FreeRTOS tasks, queues and semaphores 
 
 ### Let's Connect
 
-*Open to autonomous driving & robotics opportunities — graduating December 2026*
+*Open to geometric vision & self-driving roles — graduating December 2026*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johns27)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ejohns.ipod@gmail.com)
