@@ -6,6 +6,8 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/StrPicket)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ejohns.ipod@gmail.com)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=6366F1&center=true&vCenter=true&random=false&width=760&height=40&lines=Working+on+a+vision-based+autonomous+driving+project;Looking+for+Geometric+Vision+%26+Self-Driving+roles;Perception+%7C+SLAM+%7C+Sensor+Fusion)](https://git.io/typing-svg)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=StrPicket&color=F97316&style=for-the-badge&label=PROFILE%20VIEWS)
 ![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20SELF--DRIVING%20%26%20GEOMETRIC%20VISION%20ROLES-22C55E?style=for-the-badge&labelColor=555555)
 
@@ -67,7 +69,7 @@
 
 </div>
 
-Led the development of an end-to-end autonomous driving system on a fisheye-camera PuzzleBot, from perception to decision-making and control, running fully on-board as a modular ROS 2 architecture. I owned the deep learning workflow for traffic-sign recognition (data collection and labeling, training, real-time deployment on embedded hardware), integrated with classical vision for lane and traffic-light perception, and designed a finite-state machine that fuses the perception signals and prioritizes safe behavior in critical maneuvers.
+Autonomous driving system running fully on-board a fisheye-camera PuzzleBot. A YOLOv8 model recognizes traffic signs, classical vision handles lanes and traffic lights, and a finite-state machine turns those signals into safe driving decisions, all organized as a modular ROS 2 architecture.
 
 **Tools:** ![ROS 2](https://img.shields.io/badge/ROS%202-CE0000?style=flat-square&logo=ros&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![YOLOv8](https://img.shields.io/badge/YOLOv8-00B8D4?style=flat-square) ![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
@@ -91,7 +93,7 @@ Led the development of an end-to-end autonomous driving system on a fisheye-came
 
 </div>
 
-Led an autonomous warehouse forklift project using Agile/Scrum sprints with V-Model verification, coordinating system integration and testing on the real robot. The robot builds the warehouse map from scratch with LiDAR particle-filter SLAM, plans routes with semantic A\*/Dijkstra planning and Bug2 reactive avoidance, and localizes with an EKF that fuses fisheye-camera pose from AprilTags/QR markers (with outlier gating) for pallet alignment. A ROS 2–FPGA lifting mechanism closes the loop, where I also debugged clock desynchronization and motor command latency across the stack.
+Autonomous forklift that maps a warehouse with LiDAR SLAM, plans routes with A\*/Dijkstra, avoids obstacles with Bug2 and localizes by fusing AprilTag/QR camera poses in an EKF. A ROS 2-controlled FPGA mechanism handles the pallet lifting.
 
 **Tools:** ![ROS 2](https://img.shields.io/badge/ROS%202-CE0000?style=flat-square&logo=ros&logoColor=white) ![LiDAR](https://img.shields.io/badge/LiDAR-FF6B6B?style=flat-square) ![FPGA Tang Nano 20K](https://img.shields.io/badge/FPGA%20Tang%20Nano%2020K-8A2BE2?style=flat-square) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![AprilTag / QR](https://img.shields.io/badge/AprilTag%20/%20QR-4ECDC4?style=flat-square)
 
@@ -115,7 +117,7 @@ Led an autonomous warehouse forklift project using Agile/Scrum sprints with V-Mo
 
 </div>
 
-Defined the architecture of a cooperative two-UAV inspection system and integrated perception, control and inter-drone coordination. I trained and refined a multiclass YOLO segmentation model that feeds image-based visual servoing with PD control: the reconnaissance UAV logs hazards ranked by severity as waypoints, and a second UAV re-inspects, centers and verifies each one.
+Two cooperating drones for inspection: a YOLO segmentation model and visual servoing let the first drone detect and log hazards by severity, and the second flies to each point to re-inspect and verify it.
 
 **Tools:** ![YOLO](https://img.shields.io/badge/YOLO-00B8D4?style=flat-square) ![Visual Servoing](https://img.shields.io/badge/Visual%20Servoing-F97316?style=flat-square) ![PD Control](https://img.shields.io/badge/PD%20Control-6366F1?style=flat-square)
 
@@ -139,7 +141,7 @@ Defined the architecture of a cooperative two-UAV inspection system and integrat
 
 </div>
 
-Led the end-to-end development of a robotic arm built from scratch with Quanser's new actuators and sensors, covering system integration, control, testing and troubleshooting. I built a YOLO/OpenCV color-based detection pipeline for an autonomous cube-sorting sequence and extended it to hand-gesture teleoperation of the arm's joints and gripper. The project earned a training certification from Quanser.
+Robotic arm built from scratch with Quanser actuators and sensors. A YOLO/OpenCV pipeline detects cubes by color for autonomous sorting and was extended to control the arm's joints and gripper with hand gestures. Earned a Quanser training certification.
 
 **Tools:** ![YOLO](https://img.shields.io/badge/YOLO-00B8D4?style=flat-square) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Quanser](https://img.shields.io/badge/Quanser-0A66C2?style=flat-square)
 
@@ -156,7 +158,7 @@ Led the end-to-end development of a robotic arm built from scratch with Quanser'
 ### 🚜 Autonomous Tractor Prototype (John Deere)
 *Aug – Dec 2024 · Industry partner: John Deere*
 
-Designed the embedded system of an autonomous tractor prototype: PWM motor control with encoders, GPS waypoint navigation, IMU motion tracking, CAN communication between devices and NRF24L01 wireless telemetry.
+Embedded control system for an autonomous tractor prototype on an STM32: motor control with encoders, GPS waypoint navigation, IMU tracking, and CAN and wireless communication between modules.
 
 **Tools:** ![STM32H755](https://img.shields.io/badge/STM32H755-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![CAN Bus](https://img.shields.io/badge/CAN%20Bus-FF4500?style=flat-square) ![GPS / IMU](https://img.shields.io/badge/GPS%20/%20IMU-4ECDC4?style=flat-square) ![NRF24L01](https://img.shields.io/badge/NRF24L01-555555?style=flat-square)
 
@@ -180,7 +182,7 @@ Designed the embedded system of an autonomous tractor prototype: PWM motor contr
 
 </div>
 
-Built a real-time vehicle simulation with FreeRTOS tasks, queues and semaphores plus a Raspberry Pi GUI, and developed an FPGA-based vehicle-control interface with accelerometer steering and a UART link to Unity.
+A real-time vehicle simulation with FreeRTOS tasks and a Raspberry Pi GUI, plus an FPGA vehicle-control interface that steers with an accelerometer and talks to Unity over UART.
 
 **Tools:** ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-4CAF50?style=flat-square) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white) ![FPGA (VHDL)](https://img.shields.io/badge/FPGA%20(VHDL)-5E35B1?style=flat-square) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
