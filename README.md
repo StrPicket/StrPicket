@@ -62,12 +62,34 @@
 | 🚁 **Cooperative UAVs for Oil-Leak Monitoring**<br>![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square) ![PD](https://img.shields.io/badge/Visual%20Servoing-F97316?style=flat-square)<br>Two-UAV inspection system: YOLO segmentation feeds visual servoing; one drone logs hazards by severity, the second re-inspects and verifies. | 🚜 **Autonomous Tractor (John Deere)**<br>![STM32](https://img.shields.io/badge/STM32H755-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![CAN](https://img.shields.io/badge/CAN-FF4500?style=flat-square)<br>Embedded system with PWM motor control, GPS waypoint navigation, IMU tracking, CAN bus and NRF24L01 telemetry. |
 | 🦾 **Quanser Mechatronics Challenge**<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square)<br>Robotic arm built from scratch: YOLO/OpenCV cube sorting and hand-gesture teleoperation of joints and gripper. | ⚙️ **Embedded Systems**<br>![FreeRTOS](https://img.shields.io/badge/FreeRTOS-4CAF50?style=flat-square) ![VHDL](https://img.shields.io/badge/VHDL-5E35B1?style=flat-square)<br>FreeRTOS vehicle simulation with Raspberry Pi GUI, plus an FPGA vehicle-control interface linked to Unity over UART. |
 
-<!-- ===== DEMOS (descomenta cuando tengas gifs/videos) =====
-<div align="center">
-  <img src="assets/autonomous-driving.gif" width="45%" />
-  <img src="assets/warehouse-slam.gif" width="45%" />
-</div>
--->
+## Project Demos
+
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://www.youtube.com/watch?v=VRI7v477p8M">
+<img src="https://img.youtube.com/vi/VRI7v477p8M/hqdefault.jpg" alt="Demo 1" width="100%">
+</a>
+<br>
+<b>Demo 1 (título del proyecto)</b>
+<br>
+<sub>Descripción corta de qué se ve en el video</sub>
+<br>
+<a href="https://www.youtube.com/watch?v=VRI7v477p8M"><img src="https://img.shields.io/badge/WATCH%20ON-YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube"></a>
+</td>
+<td align="center" width="50%">
+<a href="https://www.youtube.com/watch?v=_xsIzY1pPvs">
+<img src="https://img.youtube.com/vi/_xsIzY1pPvs/hqdefault.jpg" alt="Demo 2" width="100%">
+</a>
+<br>
+<b>Demo 2 (título del proyecto)</b>
+<br>
+<sub>Descripción corta de qué se ve en el video</sub>
+<br>
+<a href="https://www.youtube.com/watch?v=_xsIzY1pPvs"><img src="https://img.shields.io/badge/WATCH%20ON-YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube"></a>
+</td>
+</tr>
+</table>
 
 ---
 
