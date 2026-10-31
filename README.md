@@ -63,9 +63,9 @@
 
 | Project | Stack | What it does |
 |---|---|---|
-| [**Autonomous Driving PuzzleBot**](https://github.com/StrPicket/Puzzlebot_Challenge) | <img src="https://skillicons.dev/icons?i=ros,opencv,pytorch" height="30" alt="stack"> | On-board autonomous driving: YOLOv8 traffic-sign recognition, lane and traffic-light vision, and a finite-state machine for decisions. |
-| **Autonomous Warehouse PuzzleBot** | <img src="https://skillicons.dev/icons?i=ros,opencv" height="30" alt="stack"> | Warehouse forklift with LiDAR SLAM, A\*/Dijkstra planning, EKF localization and an FPGA-driven pallet lift. |
-| **Cooperative UAV Inspection** | <img src="https://skillicons.dev/icons?i=py,opencv,pytorch" height="30" alt="stack"> | Two-drone system that uses YOLO segmentation and visual servoing to detect, log and re-inspect hazards. |
+| [**Autonomous Driving PuzzleBot**](https://github.com/StrPicket/Puzzlebot_Challenge) | <img src="https://skillicons.dev/icons?i=py,linux,ros,opencv,pytorch" height="30" alt="stack"> | On-board autonomous driving: YOLOv8 traffic-sign recognition, lane and traffic-light vision, and a finite-state machine for decisions. |
+| **Autonomous Warehouse PuzzleBot** | <img src="https://skillicons.dev/icons?i=py,linux,ros,opencv" height="30" alt="stack"> | Warehouse forklift with LiDAR SLAM, A\*/Dijkstra planning, EKF localization and an FPGA-driven pallet lift. |
+| **Cooperative UAV Inspection** | <img src="https://skillicons.dev/icons?i=py,linux,opencv,pytorch" height="30" alt="stack"> | Two-drone system that uses YOLO segmentation and visual servoing to detect, log and re-inspect hazards. |
 | **Quanser Mechatronics Challenge** | <img src="https://skillicons.dev/icons?i=opencv,pytorch" height="30" alt="stack"> | Robotic arm with YOLO/OpenCV cube sorting and hand-gesture teleoperation. |
 | [**Chick Tracking (Duck Vision)**](https://github.com/StrPicket/Duck_vision) | <img src="https://skillicons.dev/icons?i=py" height="30" alt="stack"> | Detection and tracking of chicks in video. |
 | **Autonomous Tractor (John Deere)** | <img src="https://skillicons.dev/icons?i=c" height="30" alt="stack"> | STM32 embedded control with GPS waypoint navigation, IMU tracking and CAN bus communication. |
