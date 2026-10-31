@@ -157,6 +157,30 @@ Robotic arm built from scratch with Quanser actuators and sensors. A YOLO/OpenCV
 <br>
 <br>
 
+### 🐥 [Chick Tracking — Duck Vision](https://github.com/StrPicket/Duck_vision)
+*Computer vision project*
+
+<div align="center">
+
+<a href="https://www.youtube.com/watch?v=XKy8LAejL1A"><img src="https://img.youtube.com/vi/XKy8LAejL1A/hqdefault.jpg" width="560" alt="Chick tracking demo"></a>
+<br><sub>▶ Click to watch the demo</sub>
+
+</div>
+
+Computer vision system that detects and tracks chicks in video, following each one frame by frame.
+
+**Tools:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Concepts & skills:** object detection, multi-object tracking, computer vision, real-time video.
+
+<br>
+<br>
+
+---
+
+<br>
+<br>
+
 ### 🚜 Autonomous Tractor Prototype (John Deere)
 *Aug – Dec 2024 · Industry partner: John Deere*
 
