@@ -1,13 +1,13 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:06B6D4&height=220&section=header&text=Jeffry%20Johnson&fontSize=70&fontAlignY=35&desc=Autonomous%20Driving%20%7C%20Perception%20%7C%20SLAM%20%7C%20Robotics&descSize=18&descAlignY=55&fontColor=ffffff&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=transparent&height=200&section=header&text=Picket&fontSize=80&fontAlignY=40&desc=Autonomous%20Driving%20%7C%20Perception%20%7C%20SLAM%20%7C%20Robotics&descSize=18&descAlignY=62&fontColor=F97316&animation=fadeIn)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johns27)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/StrPicket)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ejohns.ipod@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=StrPicket&color=F97316&style=flat&label=Visitors)](https://github.com/StrPicket)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=06B6D4&center=true&vCenter=true&random=false&width=700&height=40&lines=Autonomous+Driving+%26+Navigation;Vision-Based+Perception+%2B+SLAM;EKF+Sensor+Fusion+%2B+ROS+2;Team+Lead+in+2+Quanser+Competitions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=06B6D4&center=true&vCenter=true&random=false&width=700&height=40&lines=Autonomous+Driving+%26+Navigation;Vision-Based+Perception+%2B+SLAM;EKF+Sensor+Fusion+%2B+ROS+2;Team+Lead+%7C+Quanser+Mechatronics+Challenge)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,7 +16,7 @@
 ## About Me
 
 ```yaml
-name: Johnson (Picket)
+name: Picket
 role: Robotics & Digital Systems Engineering Student
 university: Tecnológico de Monterrey
 graduation: December 2026
@@ -27,14 +27,11 @@ interests: [Vision-Based Perception, SLAM, EKF State Estimation, Motion Planning
 status: Looking for autonomous driving / robotics roles starting 2027
 ```
 
-> Robotics engineer focused on autonomous vehicles: from camera calibration and deep-learning perception to SLAM, sensor fusion and on-board ROS 2 integration. I've led teams in two international Quanser competitions and enjoy building systems end to end and getting them to work on real hardware.
+> Robotics engineer focused on autonomous vehicles: from camera calibration and deep-learning perception to SLAM, sensor fusion and on-board ROS 2 integration. I've led 5-person teams across several projects, including an international Quanser challenge, and enjoy building systems end to end and getting them to work on real hardware.
 
 ---
 
 ## Experience & Leadership
-
-🏆 **Team Leader — Quanser Autonomous Driving Competition** · Online · Feb – Mar 2026
-> Led a university team in an international competition: perception, navigation and control algorithms on Quanser autonomous-vehicle platforms.
 
 🦾 **Team Leader — Quanser Mechatronics Challenge** · Markham, Ontario, Canada · Nov 2025
 > Built a robotic arm from scratch with a YOLO/OpenCV cube-sorting pipeline and hand-gesture teleoperation. Earned a Quanser training certification.
@@ -51,7 +48,14 @@ status: Looking for autonomous driving / robotics roles starting 2027
 | 🚗 [Autonomous Driving PuzzleBot](https://github.com/StrPicket/Puzzlebot_Challenge)<br>![ROS2](https://img.shields.io/badge/ROS2-CE0000?style=flat-square&logo=ros&logoColor=white) ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square) ![Jetson](https://img.shields.io/badge/Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)<br>End-to-end autonomous driving on a fisheye-camera PuzzleBot (5-person team, lead): YOLOv8 traffic-sign recognition, lane and traffic-light vision, and a finite-state machine for decision-making. All on-board. | 📦 **Autonomous Warehouse PuzzleBot**<br>![ROS2](https://img.shields.io/badge/ROS2-CE0000?style=flat-square&logo=ros&logoColor=white) ![SLAM](https://img.shields.io/badge/SLAM-4ECDC4?style=flat-square) ![FPGA](https://img.shields.io/badge/FPGA-8A2BE2?style=flat-square)<br>LiDAR particle-filter SLAM, A*/Dijkstra planning, Bug2 avoidance, fisheye calibration + PnP pose with AprilTags/QR, and EKF fusion with outlier gating. FPGA-driven lift over SPI. |
 |---|---|
 | 🚁 **Cooperative UAVs for Oil-Leak Monitoring**<br>![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square) ![PD](https://img.shields.io/badge/Visual%20Servoing-F97316?style=flat-square)<br>Two-UAV inspection system: YOLO segmentation feeds visual servoing; one drone logs hazards by severity, the second re-inspects and verifies. | 🚜 **Autonomous Tractor (John Deere)**<br>![STM32](https://img.shields.io/badge/STM32H755-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![CAN](https://img.shields.io/badge/CAN-FF4500?style=flat-square)<br>Embedded system with PWM motor control, GPS waypoint navigation, IMU tracking, CAN bus and NRF24L01 telemetry. |
-| 🏁 [Quanser Competitions](https://github.com/StrPicket/Quanser)<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)<br>Perception, navigation and control on Quanser vehicle and robotic-arm platforms. | ⚙️ **Embedded Systems**<br>![FreeRTOS](https://img.shields.io/badge/FreeRTOS-4CAF50?style=flat-square) ![VHDL](https://img.shields.io/badge/VHDL-5E35B1?style=flat-square)<br>FreeRTOS vehicle simulation with Raspberry Pi GUI, plus an FPGA vehicle-control interface linked to Unity over UART. |
+| 🦾 **Quanser Mechatronics Challenge**<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square)<br>Robotic arm built from scratch: YOLO/OpenCV cube sorting and hand-gesture teleoperation of joints and gripper. | ⚙️ **Embedded Systems**<br>![FreeRTOS](https://img.shields.io/badge/FreeRTOS-4CAF50?style=flat-square) ![VHDL](https://img.shields.io/badge/VHDL-5E35B1?style=flat-square)<br>FreeRTOS vehicle simulation with Raspberry Pi GUI, plus an FPGA vehicle-control interface linked to Unity over UART. |
+
+<!-- ===== DEMOS (descomenta cuando tengas gifs/videos) =====
+<div align="center">
+  <img src="assets/autonomous-driving.gif" width="45%" />
+  <img src="assets/warehouse-slam.gif" width="45%" />
+</div>
+-->
 
 ---
 
