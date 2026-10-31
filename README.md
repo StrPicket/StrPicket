@@ -84,6 +84,13 @@ Led the development of an end-to-end autonomous driving system on a fisheye-came
 ### 📦 Autonomous Warehouse PuzzleBot
 *Jan – Jun 2026 · Team lead (5 people)*
 
+<div align="center">
+
+<a href="https://www.youtube.com/watch?v=BnAZNL-H9k8"><img src="https://img.youtube.com/vi/BnAZNL-H9k8/hqdefault.jpg" width="560" alt="Autonomous Warehouse PuzzleBot demo"></a>
+<br><sub>▶ Click to watch the demo</sub>
+
+</div>
+
 Led an autonomous warehouse forklift project using Agile/Scrum sprints with V-Model verification, coordinating system integration and testing on the real robot. The robot builds the warehouse map from scratch with LiDAR particle-filter SLAM, plans routes with semantic A\*/Dijkstra planning and Bug2 reactive avoidance, and localizes with an EKF that fuses fisheye-camera pose from AprilTags/QR markers (with outlier gating) for pallet alignment. A ROS 2–FPGA lifting mechanism closes the loop, where I also debugged clock desynchronization and motor command latency across the stack.
 
 **Tools:** ![ROS 2](https://img.shields.io/badge/ROS%202-CE0000?style=flat-square&logo=ros&logoColor=white) ![LiDAR](https://img.shields.io/badge/LiDAR-FF6B6B?style=flat-square) ![FPGA Tang Nano 20K](https://img.shields.io/badge/FPGA%20Tang%20Nano%2020K-8A2BE2?style=flat-square) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![AprilTag / QR](https://img.shields.io/badge/AprilTag%20/%20QR-4ECDC4?style=flat-square)
@@ -149,13 +156,6 @@ Led the end-to-end development of a robotic arm built from scratch with Quanser'
 ### 🚜 Autonomous Tractor Prototype (John Deere)
 *Aug – Dec 2024 · Industry partner: John Deere*
 
-<div align="center">
-
-<a href="https://www.youtube.com/watch?v=KfvGzjJVa1U"><img src="https://img.youtube.com/vi/KfvGzjJVa1U/hqdefault.jpg" width="560" alt="Autonomous Tractor simulation demo"></a>
-<br><sub>▶ Click to watch the simulation</sub>
-
-</div>
-
 Designed the embedded system of an autonomous tractor prototype: PWM motor control with encoders, GPS waypoint navigation, IMU motion tracking, CAN communication between devices and NRF24L01 wireless telemetry.
 
 **Tools:** ![STM32H755](https://img.shields.io/badge/STM32H755-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![CAN Bus](https://img.shields.io/badge/CAN%20Bus-FF4500?style=flat-square) ![GPS / IMU](https://img.shields.io/badge/GPS%20/%20IMU-4ECDC4?style=flat-square) ![NRF24L01](https://img.shields.io/badge/NRF24L01-555555?style=flat-square)
@@ -172,6 +172,13 @@ Designed the embedded system of an autonomous tractor prototype: PWM motor contr
 
 ### ⚙️ Embedded Systems Projects
 *Academic projects*
+
+<div align="center">
+
+<a href="https://www.youtube.com/watch?v=KfvGzjJVa1U"><img src="https://img.youtube.com/vi/KfvGzjJVa1U/hqdefault.jpg" width="560" alt="Embedded Systems vehicle simulation demo"></a>
+<br><sub>▶ Click to watch the demo</sub>
+
+</div>
 
 Built a real-time vehicle simulation with FreeRTOS tasks, queues and semaphores plus a Raspberry Pi GUI, and developed an FPGA-based vehicle-control interface with accelerometer steering and a UART link to Unity.
 
