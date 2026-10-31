@@ -17,7 +17,7 @@
 
 <table>
 <tr>
-<td valign="top" width="48%">
+<td>
 
 <h2>About Me</h2>
 
@@ -36,10 +36,11 @@
 <img src="https://img.shields.io/badge/Embedded%20Systems-475569?style=flat-square" alt="Embedded Systems">
 </p>
 
-</td>
-<td align="center" valign="middle" width="52%">
+<div align="center">
 
-<img src="assets/about-illustration.svg" width="460" alt="Real-time YOLO object detection of a person, a robot and a car">
+<img src="assets/about-illustration.svg" width="600" alt="Real-time YOLO object detection of a person, a robot and a car">
+
+</div>
 
 </td>
 </tr>
