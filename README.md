@@ -37,7 +37,7 @@
 </td>
 <td align="center" valign="middle" width="40%">
 
-<img src="assets/about-illustration.svg" width="340" alt="Autonomous vehicle with LiDAR and camera perception">
+<img src="assets/about-illustration.svg" width="340" alt="Real-time YOLO object detection of a person, a robot and a car">
 
 </td>
 </tr>
