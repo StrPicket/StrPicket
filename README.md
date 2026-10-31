@@ -92,17 +92,6 @@ status: Looking for autonomous driving / robotics roles starting 2027
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=StrPicket&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=06B6D4&text_color=c9d1d9)](https://github.com/StrPicket)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StrPicket&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=c9d1d9&langs_count=8)](https://github.com/StrPicket)
-
-</div>
-
----
-
 <div align="center">
 
 ### Let's Connect
@@ -112,6 +101,5 @@ status: Looking for autonomous driving / robotics roles starting 2027
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johns27)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ejohns.ipod@gmail.com)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:06B6D4&height=100&section=footer)
 
 </div>
