@@ -66,8 +66,8 @@
 | [**Autonomous Driving PuzzleBot**](https://github.com/StrPicket/Puzzlebot_Challenge) | <img src="https://skillicons.dev/icons?i=py,linux,ros,opencv" height="30" alt="stack"> | On-board autonomous driving: YOLOv8 traffic-sign recognition, lane and traffic-light vision, and a finite-state machine for decisions. |
 | **Autonomous Warehouse PuzzleBot** | <img src="https://skillicons.dev/icons?i=py,linux,ros,opencv" height="30" alt="stack"> | Warehouse forklift with LiDAR SLAM, A\*/Dijkstra planning, EKF localization and an FPGA-driven pallet lift. |
 | **Cooperative UAV Inspection** | <img src="https://skillicons.dev/icons?i=py,linux,opencv" height="30" alt="stack"> | Two-drone system that uses YOLO segmentation and visual servoing to detect, log and re-inspect hazards. |
-| **Quanser Mechatronics Challenge** | <img src="https://skillicons.dev/icons?i=opencv" height="30" alt="stack"> | Robotic arm with YOLO/OpenCV cube sorting and hand-gesture teleoperation. |
-| [**Chick Tracking (Duck Vision)**](https://github.com/StrPicket/Duck_vision) | <img src="https://skillicons.dev/icons?i=py" height="30" alt="stack"> | Detection and tracking of chicks in video. |
+| **Quanser Mechatronics Challenge** | <img src="https://skillicons.dev/icons?i=opencv,linux" height="30" alt="stack"> | Robotic arm with YOLO/OpenCV cube sorting and hand-gesture teleoperation. |
+| [**Tracking Pollitos**](https://github.com/StrPicket/Duck_vision) | <img src="https://skillicons.dev/icons?i=py,linux" height="30" alt="stack"> | Detection and tracking of chicks in video. |
 | **Autonomous Tractor (John Deere)** | <img src="https://skillicons.dev/icons?i=cpp,arduino" height="30" alt="stack"> | STM32 embedded control with GPS waypoint navigation, IMU tracking and CAN bus communication. |
 | **Embedded Systems Projects** | <img src="https://skillicons.dev/icons?i=c,raspberrypi,unity" height="30" alt="stack"> | FreeRTOS vehicle simulation with a Raspberry Pi GUI, plus an FPGA control interface linked to Unity. |
 
@@ -89,7 +89,7 @@
 
 **Tools**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 ---
 
