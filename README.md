@@ -57,39 +57,11 @@
 
 ## Featured Projects
 
-| 🚗 [Autonomous Driving PuzzleBot](https://github.com/StrPicket/Puzzlebot_Challenge)<br>![ROS2](https://img.shields.io/badge/ROS2-CE0000?style=flat-square&logo=ros&logoColor=white) ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square) ![Jetson](https://img.shields.io/badge/Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)<br>End-to-end autonomous driving on a fisheye-camera PuzzleBot (5-person team, lead): YOLOv8 traffic-sign recognition, lane and traffic-light vision, and a finite-state machine for decision-making. All on-board. | 📦 **Autonomous Warehouse PuzzleBot**<br>![ROS2](https://img.shields.io/badge/ROS2-CE0000?style=flat-square&logo=ros&logoColor=white) ![SLAM](https://img.shields.io/badge/SLAM-4ECDC4?style=flat-square) ![FPGA](https://img.shields.io/badge/FPGA-8A2BE2?style=flat-square)<br>LiDAR particle-filter SLAM, A*/Dijkstra planning, Bug2 avoidance, fisheye calibration + PnP pose with AprilTags/QR, and EKF fusion with outlier gating. FPGA-driven lift over SPI. |
+| 🚗 [Autonomous Driving PuzzleBot](https://github.com/StrPicket/Puzzlebot_Challenge)<br>![ROS2](https://img.shields.io/badge/ROS2-CE0000?style=flat-square&logo=ros&logoColor=white) ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square) ![Jetson](https://img.shields.io/badge/Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)<br>End-to-end autonomous driving on a fisheye-camera PuzzleBot (5-person team, lead): YOLOv8 traffic-sign recognition, lane and traffic-light vision, and a finite-state machine for decision-making. All on-board.<br><br><a href="https://www.youtube.com/watch?v=VRI7v477p8M"><img src="https://img.youtube.com/vi/VRI7v477p8M/hqdefault.jpg" width="100%" alt="Autonomous Driving PuzzleBot demo"></a><br><sub>▶ Click to watch the demo</sub> | 📦 **Autonomous Warehouse PuzzleBot**<br>![ROS2](https://img.shields.io/badge/ROS2-CE0000?style=flat-square&logo=ros&logoColor=white) ![SLAM](https://img.shields.io/badge/SLAM-4ECDC4?style=flat-square) ![FPGA](https://img.shields.io/badge/FPGA-8A2BE2?style=flat-square)<br>LiDAR particle-filter SLAM, A*/Dijkstra planning, Bug2 avoidance, fisheye calibration + PnP pose with AprilTags/QR, and EKF fusion with outlier gating. FPGA-driven lift over SPI. |
 |---|---|
-| 🚁 **Cooperative UAVs for Oil-Leak Monitoring**<br>![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square) ![PD](https://img.shields.io/badge/Visual%20Servoing-F97316?style=flat-square)<br>Two-UAV inspection system: YOLO segmentation feeds visual servoing; one drone logs hazards by severity, the second re-inspects and verifies. | 🚜 **Autonomous Tractor (John Deere)**<br>![STM32](https://img.shields.io/badge/STM32H755-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![CAN](https://img.shields.io/badge/CAN-FF4500?style=flat-square)<br>Embedded system with PWM motor control, GPS waypoint navigation, IMU tracking, CAN bus and NRF24L01 telemetry. |
+| 🚁 **Cooperative UAVs for Oil-Leak Monitoring**<br>![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square) ![PD](https://img.shields.io/badge/Visual%20Servoing-F97316?style=flat-square)<br>Two-UAV inspection system: YOLO segmentation feeds visual servoing; one drone logs hazards by severity, the second re-inspects and verifies.<br><br><a href="https://www.youtube.com/watch?v=_xsIzY1pPvs"><img src="https://img.youtube.com/vi/_xsIzY1pPvs/hqdefault.jpg" width="100%" alt="Cooperative UAVs demo"></a><br><sub>▶ Click to watch the demo</sub> | 🚜 **Autonomous Tractor (John Deere)**<br>![STM32](https://img.shields.io/badge/STM32H755-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![CAN](https://img.shields.io/badge/CAN-FF4500?style=flat-square)<br>Embedded system with PWM motor control, GPS waypoint navigation, IMU tracking, CAN bus and NRF24L01 telemetry. |
 | 🦾 **Quanser Mechatronics Challenge**<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square)<br>Robotic arm built from scratch: YOLO/OpenCV cube sorting and hand-gesture teleoperation of joints and gripper. | ⚙️ **Embedded Systems**<br>![FreeRTOS](https://img.shields.io/badge/FreeRTOS-4CAF50?style=flat-square) ![VHDL](https://img.shields.io/badge/VHDL-5E35B1?style=flat-square)<br>FreeRTOS vehicle simulation with Raspberry Pi GUI, plus an FPGA vehicle-control interface linked to Unity over UART. |
 
-## Project Demos
-
-<table>
-<tr>
-<td align="center" width="50%">
-<a href="https://www.youtube.com/watch?v=VRI7v477p8M">
-<img src="https://img.youtube.com/vi/VRI7v477p8M/hqdefault.jpg" alt="Demo 1" width="100%">
-</a>
-<br>
-<b>Demo 1 (título del proyecto)</b>
-<br>
-<sub>Descripción corta de qué se ve en el video</sub>
-<br>
-<a href="https://www.youtube.com/watch?v=VRI7v477p8M"><img src="https://img.shields.io/badge/WATCH%20ON-YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube"></a>
-</td>
-<td align="center" width="50%">
-<a href="https://www.youtube.com/watch?v=_xsIzY1pPvs">
-<img src="https://img.youtube.com/vi/_xsIzY1pPvs/hqdefault.jpg" alt="Demo 2" width="100%">
-</a>
-<br>
-<b>Demo 2 (título del proyecto)</b>
-<br>
-<sub>Descripción corta de qué se ve en el video</sub>
-<br>
-<a href="https://www.youtube.com/watch?v=_xsIzY1pPvs"><img src="https://img.shields.io/badge/WATCH%20ON-YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube"></a>
-</td>
-</tr>
-</table>
 
 ---
 
