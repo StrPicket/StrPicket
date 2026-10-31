@@ -16,7 +16,7 @@
 ## About Me
 
 ```yaml
-name: Jeffry Johnson (aka Picket)
+name: Johnson (Picket)
 role: Robotics & Digital Systems Engineering Student
 university: Tecnológico de Monterrey
 graduation: December 2026
