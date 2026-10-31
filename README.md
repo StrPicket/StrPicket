@@ -149,6 +149,13 @@ Led the end-to-end development of a robotic arm built from scratch with Quanser'
 ### 🚜 Autonomous Tractor Prototype (John Deere)
 *Aug – Dec 2024 · Industry partner: John Deere*
 
+<div align="center">
+
+<a href="https://www.youtube.com/watch?v=KfvGzjJVa1U"><img src="https://img.youtube.com/vi/KfvGzjJVa1U/hqdefault.jpg" width="560" alt="Autonomous Tractor simulation demo"></a>
+<br><sub>▶ Click to watch the simulation</sub>
+
+</div>
+
 Designed the embedded system of an autonomous tractor prototype: PWM motor control with encoders, GPS waypoint navigation, IMU motion tracking, CAN communication between devices and NRF24L01 wireless telemetry.
 
 **Tools:** ![STM32H755](https://img.shields.io/badge/STM32H755-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![CAN Bus](https://img.shields.io/badge/CAN%20Bus-FF4500?style=flat-square) ![GPS / IMU](https://img.shields.io/badge/GPS%20/%20IMU-4ECDC4?style=flat-square) ![NRF24L01](https://img.shields.io/badge/NRF24L01-555555?style=flat-square)
