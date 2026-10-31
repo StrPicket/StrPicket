@@ -17,13 +17,15 @@
 
 <table>
 <tr>
-<td valign="top" width="60%">
+<td valign="top" width="48%">
 
 <h2>About Me</h2>
 
-<p>Robotics &amp; Digital Systems Engineering student at <b>Tecnológico de Monterrey</b>, graduating in <b>December 2026</b> and focused on <b>autonomous driving</b>. I build the full stack of a self-driving robot: <b>vision-based perception</b> (YOLOv8, fisheye calibration, AprilTags), <b>LiDAR SLAM</b> and <b>EKF sensor fusion</b>, planning and control, all integrated on-board with <b>ROS 2</b> on Jetson, STM32 and FPGA hardware.</p>
+<p>Robotics &amp; Digital Systems Engineering student at <b>Tecnológico de Monterrey</b> (graduating December 2026), focused on <b>autonomous driving</b>.</p>
 
-<p>I've led 5-person teams through Agile/Scrum sprints with V-Model verification, taking systems from simulation to the real robot, and led a team at the international <b>Quanser Mechatronics Challenge</b> in Canada (2025).</p>
+<p>I've built autonomous systems end to end: <b>vision-based perception</b> with YOLOv8 and fisheye calibration, <b>LiDAR SLAM</b>, <b>EKF sensor fusion</b> and <b>ROS 2</b> integration on Jetson, STM32 and FPGA hardware.</p>
+
+<p>Right now I'm working on a vision-based autonomous driving project, and I'm looking for roles in <b>geometric vision</b> and <b>self-driving</b>.</p>
 
 <p>
 <img src="https://img.shields.io/badge/Autonomous%20Driving-F97316?style=flat-square" alt="Autonomous Driving">
@@ -35,9 +37,9 @@
 </p>
 
 </td>
-<td align="center" valign="middle" width="40%">
+<td align="center" valign="middle" width="52%">
 
-<img src="assets/about-illustration.svg" width="340" alt="Real-time YOLO object detection of a person, a robot and a car">
+<img src="assets/about-illustration.svg" width="460" alt="Real-time YOLO object detection of a person, a robot and a car">
 
 </td>
 </tr>
