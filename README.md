@@ -1,19 +1,17 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=transparent&height=200&section=header&text=Picket&fontSize=80&fontAlignY=40&desc=Autonomous%20Driving%20%7C%20Perception%20%7C%20SLAM%20%7C%20Robotics&descSize=18&descAlignY=62&fontColor=F97316&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=transparent&height=200&section=header&text=Picket&fontSize=80&fontAlignY=40&desc=Autonomous%20Driving%20%7C%20Perception%20%7C%20SLAM%20%7C%20Robotics&descSize=18&descAlignY=62&fontColor=6366F1)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johns27)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/StrPicket)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ejohns.ipod@gmail.com)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=06B6D4&center=true&vCenter=true&random=false&width=700&height=40&lines=Autonomous+Driving+%26+Navigation;Vision-Based+Perception+%2B+SLAM;EKF+Sensor+Fusion+%2B+ROS+2;Team+Lead+%7C+Quanser+Mechatronics+Challenge)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=StrPicket&color=F97316&style=for-the-badge&label=PROFILE%20VIEWS)
 ![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20AUTONOMOUS%20DRIVING%20ROLES-22C55E?style=for-the-badge&labelColor=555555)
 
 </div>
 
-<img src="assets/divider.svg" width="100%" height="3" alt="">
+---
 
 <table>
 <tr>
@@ -43,7 +41,7 @@
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" height="3" alt="">
+---
 
 ## Experience & Leadership
 
@@ -55,7 +53,7 @@
 
 🎓 **B.Eng. Robotics and Digital Systems** · Tecnológico de Monterrey · Expected Dec 2026
 
-<img src="assets/divider.svg" width="100%" height="3" alt="">
+---
 
 ## Featured Projects
 
@@ -71,7 +69,7 @@
 </div>
 -->
 
-<img src="assets/divider.svg" width="100%" height="3" alt="">
+---
 
 ## Tech Stack
 
@@ -91,7 +89,7 @@
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
-<img src="assets/divider.svg" width="100%" height="3" alt="">
+---
 
 ## Autonomous Driving Roadmap
 
@@ -104,7 +102,7 @@
 🎯 Next        →  Production-grade perception & planning stacks for self-driving vehicles
 ```
 
-<img src="assets/divider.svg" width="100%" height="3" alt="">
+---
 
 <div align="center">
 
