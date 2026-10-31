@@ -57,11 +57,80 @@
 
 ## Featured Projects
 
-| 🚗 [Autonomous Driving PuzzleBot](https://github.com/StrPicket/Puzzlebot_Challenge)<br>![ROS2](https://img.shields.io/badge/ROS2-CE0000?style=flat-square&logo=ros&logoColor=white) ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square) ![Jetson](https://img.shields.io/badge/Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)<br>End-to-end autonomous driving on a fisheye-camera PuzzleBot (5-person team, lead): YOLOv8 traffic-sign recognition, lane and traffic-light vision, and a finite-state machine for decision-making. All on-board.<br><br><a href="https://www.youtube.com/watch?v=VRI7v477p8M"><img src="https://img.youtube.com/vi/VRI7v477p8M/hqdefault.jpg" width="100%" alt="Autonomous Driving PuzzleBot demo"></a><br><sub>▶ Click to watch the demo</sub> | 📦 **Autonomous Warehouse PuzzleBot**<br>![ROS2](https://img.shields.io/badge/ROS2-CE0000?style=flat-square&logo=ros&logoColor=white) ![SLAM](https://img.shields.io/badge/SLAM-4ECDC4?style=flat-square) ![FPGA](https://img.shields.io/badge/FPGA-8A2BE2?style=flat-square)<br>LiDAR particle-filter SLAM, A*/Dijkstra planning, Bug2 avoidance, fisheye calibration + PnP pose with AprilTags/QR, and EKF fusion with outlier gating. FPGA-driven lift over SPI. |
-|---|---|
-| 🚁 **Cooperative UAVs for Oil-Leak Monitoring**<br>![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square) ![PD](https://img.shields.io/badge/Visual%20Servoing-F97316?style=flat-square)<br>Two-UAV inspection system: YOLO segmentation feeds visual servoing; one drone logs hazards by severity, the second re-inspects and verifies.<br><br><a href="https://www.youtube.com/watch?v=_xsIzY1pPvs"><img src="https://img.youtube.com/vi/_xsIzY1pPvs/hqdefault.jpg" width="100%" alt="Cooperative UAVs demo"></a><br><sub>▶ Click to watch the demo</sub> | 🚜 **Autonomous Tractor (John Deere)**<br>![STM32](https://img.shields.io/badge/STM32H755-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![CAN](https://img.shields.io/badge/CAN-FF4500?style=flat-square)<br>Embedded system with PWM motor control, GPS waypoint navigation, IMU tracking, CAN bus and NRF24L01 telemetry. |
-| 🦾 **Quanser Mechatronics Challenge**<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square)<br>Robotic arm built from scratch: YOLO/OpenCV cube sorting and hand-gesture teleoperation of joints and gripper. | ⚙️ **Embedded Systems**<br>![FreeRTOS](https://img.shields.io/badge/FreeRTOS-4CAF50?style=flat-square) ![VHDL](https://img.shields.io/badge/VHDL-5E35B1?style=flat-square)<br>FreeRTOS vehicle simulation with Raspberry Pi GUI, plus an FPGA vehicle-control interface linked to Unity over UART. |
+### 🚗 [Autonomous Driving PuzzleBot](https://github.com/StrPicket/Puzzlebot_Challenge)
+*Jan – Jun 2025 · Team lead (5 people)*
 
+<div align="center">
+
+<a href="https://www.youtube.com/watch?v=VRI7v477p8M"><img src="https://img.youtube.com/vi/VRI7v477p8M/hqdefault.jpg" width="560" alt="Autonomous Driving PuzzleBot demo"></a>
+<br><sub>▶ Click to watch the demo</sub>
+
+</div>
+
+Led the development of an end-to-end autonomous driving system on a fisheye-camera PuzzleBot, from perception to decision-making and control, running fully on-board as a modular ROS 2 architecture. I owned the deep learning workflow for traffic-sign recognition (data collection and labeling, training, real-time deployment on embedded hardware), integrated with classical vision for lane and traffic-light perception, and designed a finite-state machine that fuses the perception signals and prioritizes safe behavior in critical maneuvers.
+
+**Tools:** ![ROS 2](https://img.shields.io/badge/ROS%202-CE0000?style=flat-square&logo=ros&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![YOLOv8](https://img.shields.io/badge/YOLOv8-00B8D4?style=flat-square) ![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=flat-square&logo=nvidia&logoColor=white)
+
+**Concepts & skills:** traffic-sign recognition, lane and traffic-light detection, fisheye camera, finite-state machines, modular ROS 2 architecture, field testing, team leadership.
+
+### 📦 Autonomous Warehouse PuzzleBot
+*Jan – Jun 2026 · Team lead (5 people)*
+
+Led an autonomous warehouse forklift project using Agile/Scrum sprints with V-Model verification, coordinating system integration and testing on the real robot. The robot builds the warehouse map from scratch with LiDAR particle-filter SLAM, plans routes with semantic A\*/Dijkstra planning and Bug2 reactive avoidance, and localizes with an EKF that fuses fisheye-camera pose from AprilTags/QR markers (with outlier gating) for pallet alignment. A ROS 2–FPGA lifting mechanism closes the loop, where I also debugged clock desynchronization and motor command latency across the stack.
+
+**Tools:** ![ROS 2](https://img.shields.io/badge/ROS%202-CE0000?style=flat-square&logo=ros&logoColor=white) ![LiDAR](https://img.shields.io/badge/LiDAR-FF6B6B?style=flat-square) ![FPGA Tang Nano 20K](https://img.shields.io/badge/FPGA%20Tang%20Nano%2020K-8A2BE2?style=flat-square) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![AprilTag / QR](https://img.shields.io/badge/AprilTag%20/%20QR-4ECDC4?style=flat-square)
+
+**Concepts & skills:** SLAM (particle filter), EKF sensor fusion, camera calibration, PnP pose estimation, A\*/Dijkstra, Bug2, SPI communication, Agile/Scrum, V-Model.
+
+### 🚁 Cooperative UAVs for Oil-Leak Monitoring
+*Aug – Dec 2025 · Technical lead (5 people)*
+
+<div align="center">
+
+<a href="https://www.youtube.com/watch?v=_xsIzY1pPvs"><img src="https://img.youtube.com/vi/_xsIzY1pPvs/hqdefault.jpg" width="560" alt="Cooperative UAVs demo"></a>
+<br><sub>▶ Click to watch the demo</sub>
+
+</div>
+
+Defined the architecture of a cooperative two-UAV inspection system and integrated perception, control and inter-drone coordination. I trained and refined a multiclass YOLO segmentation model that feeds image-based visual servoing with PD control: the reconnaissance UAV logs hazards ranked by severity as waypoints, and a second UAV re-inspects, centers and verifies each one.
+
+**Tools:** ![YOLO](https://img.shields.io/badge/YOLO-00B8D4?style=flat-square) ![Visual Servoing](https://img.shields.io/badge/Visual%20Servoing-F97316?style=flat-square) ![PD Control](https://img.shields.io/badge/PD%20Control-6366F1?style=flat-square)
+
+**Concepts & skills:** instance segmentation, image-based visual servoing, PD control, multi-agent coordination, system architecture, technical leadership.
+
+### 🦾 Quanser Mechatronics Challenge
+*Nov 2–7, 2025 · Markham, Ontario, Canada · Team leader*
+
+<div align="center">
+
+<a href="https://www.youtube.com/watch?v=2HFREQfGqWA"><img src="https://img.youtube.com/vi/2HFREQfGqWA/hqdefault.jpg" width="560" alt="Quanser Mechatronics Challenge demo"></a>
+<br><sub>▶ Click to watch the demo</sub>
+
+</div>
+
+Led the end-to-end development of a robotic arm built from scratch with Quanser's new actuators and sensors, covering system integration, control, testing and troubleshooting. I built a YOLO/OpenCV color-based detection pipeline for an autonomous cube-sorting sequence and extended it to hand-gesture teleoperation of the arm's joints and gripper. The project earned a training certification from Quanser.
+
+**Tools:** ![YOLO](https://img.shields.io/badge/YOLO-00B8D4?style=flat-square) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Quanser](https://img.shields.io/badge/Quanser-0A66C2?style=flat-square)
+
+**Concepts & skills:** actuator and sensor integration, robotic arm control, color-based object detection, gesture teleoperation, troubleshooting under time pressure, team leadership.
+
+### 🚜 Autonomous Tractor Prototype (John Deere)
+*Aug – Dec 2024 · Industry partner: John Deere*
+
+Designed the embedded system of an autonomous tractor prototype: PWM motor control with encoders, GPS waypoint navigation, IMU motion tracking, CAN communication between devices and NRF24L01 wireless telemetry.
+
+**Tools:** ![STM32H755](https://img.shields.io/badge/STM32H755-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![CAN Bus](https://img.shields.io/badge/CAN%20Bus-FF4500?style=flat-square) ![GPS / IMU](https://img.shields.io/badge/GPS%20/%20IMU-4ECDC4?style=flat-square) ![NRF24L01](https://img.shields.io/badge/NRF24L01-555555?style=flat-square)
+
+**Concepts & skills:** embedded firmware, PWM and encoder control, waypoint navigation, inertial sensing, CAN bus, wireless telemetry.
+
+### ⚙️ Embedded Systems Projects
+*Academic projects*
+
+Built a real-time vehicle simulation with FreeRTOS tasks, queues and semaphores plus a Raspberry Pi GUI, and developed an FPGA-based vehicle-control interface with accelerometer steering and a UART link to Unity.
+
+**Tools:** ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-4CAF50?style=flat-square) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white) ![FPGA (VHDL)](https://img.shields.io/badge/FPGA%20(VHDL)-5E35B1?style=flat-square) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+
+**Concepts & skills:** real-time operating systems, task synchronization, hardware/software co-design, UART, GUI development.
 
 ---
 
